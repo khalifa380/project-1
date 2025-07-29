@@ -32,7 +32,7 @@ Click here to view the live website:
 
 📁 How to Run Locally
 
-git clone :
+git clone :https://github.com/khalifa380/project-1.git
 cd plant-shop
 npm install
 npm start
